@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <header>
-        <h1 className="text-3xl font-bold text-center">Realtor</h1>
+        <h1 className="text-3xl font-bold text-center">Realtor Store
+        </h1>
       </header>
     </>
   );
